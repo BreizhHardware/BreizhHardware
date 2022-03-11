@@ -7,6 +7,7 @@ Et ma passion pour l'informatique ce porte principalement sur les systèmes et r
 Mes projets actuels sont:
   - Une roulette en HTML CSS JavaScript
   - Une page d'accueil pour navigateur web
+
 Mes projets archivés:
   - Un faux site web de campagne présidentiel
   - Un site web de reconnaissance d'iris (via python cgi)
