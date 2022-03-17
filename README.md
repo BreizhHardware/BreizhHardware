@@ -6,7 +6,10 @@
 Et ma passion pour l'informatique se porte principalement sur les systèmes et réseaux, je mets en place ma propre petite infrastructure, actuellement composée de 3 machines, un NAS + serveur de dev + serveur minecraft (I5 7400, 16Go de ram), un raspberry pi 4B+ 4go serveur de dev + vpn et une proxmox I3 3220T et 8go de ram.
 Mes projets actuels sont:
   - Une roulette en HTML CSS JavaScript
-  - Une page d'accueil pour navigateur web
+  - Une page d'accueil pour navigateur webEt ma passion pour l'informatique se porte principalement sur les systèmes et réseaux, je mets en place ma propre petite infrastructure, actuellement composée de 3 machines, un NAS + serveur de dev + serveur minecraft (I5 7400, 16Go de ram), un raspberry pi 4B+ 4go serveur de dev + vpn et une proxmox I3 3220T et 8go de ram. Mes projets actuels sont:
+
+
+  - Un projet de chiffrement déchiffrement affine en python
 
 Mes projets archivés:
   - Un faux site web de campagne présidentielle
