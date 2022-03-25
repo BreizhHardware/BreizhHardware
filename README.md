@@ -7,11 +7,11 @@ Et ma passion pour l'informatique se porte principalement sur les systèmes et r
 Mes projets actuels sont:
   - Une roulette en HTML CSS JavaScript
   - Une page d'accueil pour navigateur web
-  - Un projet de chiffrement déchiffrement affine en python
 
 Mes projets archivés:
   - Un faux site web de campagne présidentielle
   - Un site web de reconnaissance d'iris (via python cgi)
+  - Un projet de chiffrement déchiffrement affine en python
 Et voila c'est tout pour l'instant
 
 <!---
