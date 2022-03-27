@@ -12,6 +12,7 @@ Mes projets archivés:
   - Un faux site web de campagne présidentielle
   - Un site web de reconnaissance d'iris (via python cgi)
   - Un projet de chiffrement déchiffrement affine en python
+
 Et voila c'est tout pour l'instant
 
 <!---
