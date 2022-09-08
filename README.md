@@ -1,6 +1,6 @@
 - 👋 Bonjour, je suis @BreizhHardware, Félix MARQUET dans la vrai vie, 18 ans
 - 👀 Je suis un passionné d'informatique
-- 🌱 Je suis actuellement au lycée
+- 🌱 Je suis actuellement en étude t'ingénieur à l'ISEN de Nantes
 - 📫 Si vous voulez me contacter, c'est par mail a felix.mrqt@breizhhardware.fr, ou par discord: BreizhHardware#9207
 
 Et ma passion pour l'informatique se porte principalement sur les systèmes et réseaux, je mets en place ma propre petite infrastructure, actuellement composée de 3 machines, un NAS + serveur de dev + serveur minecraft (I5 7400, 16Go de ram), un raspberry pi 4B+ 4go serveur de dev + vpn et une proxmox I3 3220T et 8go de ram.
