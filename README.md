@@ -6,7 +6,7 @@
 Et ma passion pour l'informatique se porte principalement sur les systèmes et réseaux, je mets en place ma propre petite infrastructure, actuellement composée de 3 machines, un NAS + serveur de dev + serveur minecraft (I5 7400, 16Go de ram), un raspberry pi 4B+ 4go serveur de dev + vpn et une proxmox I3 3220T et 8go de ram.
 Mes projets actuels sont:
   - Une page d'accueil pour navigateur web (disponible ici:[ https://startpage.breizhhardware.fr](https://startpage.breizhhardware.fr))
-  - Un plugin SignalRGB pour mon materiel
+  - Un script de post install pour mes serveurs
 
 Mes projets archivés:
   - Un faux site web de campagne présidentielle
