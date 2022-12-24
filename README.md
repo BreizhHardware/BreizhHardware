@@ -16,7 +16,4 @@ Mes projets archivés:
 
 Et voila c'est tout pour l'instant
 
-<!---
-BreizhHardware/BreizhHardware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://metrics.lecoq.io/Introduction?template=classic&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FParis)
