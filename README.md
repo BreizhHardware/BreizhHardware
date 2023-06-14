@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis @BreizhHardware, Félix MARQUET dans la vrai vie, 18 ans
+- 👋 Bonjour, je suis @BreizhHardware, Félix MARQUET dans la vrai vie, 19 ans
 - 👀 Je suis un passionné d'informatique
 - 🌱 Je suis actuellement en étude t'ingénieur à l'ISEN de Nantes
 - 📫 Si vous voulez me contacter, c'est par mail a felix.mrqt@breizhhardware.fr, ou par discord: breizhhardware
