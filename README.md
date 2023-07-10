@@ -1,6 +1,6 @@
 - 👋 Bonjour, je suis @BreizhHardware, Félix MARQUET dans la vrai vie, 19 ans
 - 👀 Je suis un passionné d'informatique
-- 🌱 Je suis actuellement en étude t'ingénieur à l'ISEN de Nantes
+- 🌱 Je suis actuellement en étude d'ingénieur à l'ISEN de Nantes
 - 📫 Si vous voulez me contacter, c'est par mail a felix.mrqt@breizhhardware.fr, ou par discord: breizhhardware
 
 Et ma passion pour l'informatique se porte principalement sur les systèmes et réseaux, je mets en place ma propre petite infrastructure, actuellement composée de 2 machines, un NAS + un proxmox (DELL T320, Xeon E5-2470V2, 72Go de ram, 8To de stockage en RAID 5).
