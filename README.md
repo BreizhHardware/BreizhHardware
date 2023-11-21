@@ -3,7 +3,7 @@
 - 🌱 Je suis actuellement en étude d'ingénieur à l'ISEN de Nantes
 - 📫 Si vous voulez me contacter, c'est par mail a felix.mrqt@breizhhardware.fr, ou par discord: breizhhardware
 
-Et ma passion pour l'informatique se porte principalement sur les systèmes et réseaux, je mets en place ma propre petite infrastructure, actuellement composée de 2 machines, un NAS + un proxmox (DELL T320, Xeon E5-2470V2, 72Go de ram, 8To de stockage en RAID 5).
+Et ma passion pour l'informatique se porte principalement sur les systèmes et réseaux, je mets en place ma propre petite infrastructure, actuellement composée de 3 machines, un NAS + un proxmox (DELL T320, Xeon E5-2470V2, 72Go de ram, 8To de stockage en RAID 5) + un 2e proxmox (DELL R420, 2xXeon E5 2440, 104Go de ram, 3To de stockage en RAID 5).
 Mes projets actuels sont:
   - Mes études......
 
