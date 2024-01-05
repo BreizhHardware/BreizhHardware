@@ -30,11 +30,15 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          17 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 %
-Python       14 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 %
-HTML         13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
-TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+From: 01 November 2023 - To: 04 January 2024
+
+Total Time: 49 hrs 21 mins
+
+PHP              16 hrs 16 mins  >>>>>>>>-----------------   31.70 %
+JavaScript       9 hrs 30 mins   >>>>>--------------------   18.52 %
+C++              6 hrs 13 mins   >>>----------------------   12.11 %
+Python           4 hrs 12 mins   >>-----------------------   08.20 %
+SQL              3 hrs 40 mins   >>-----------------------   07.17 %
 ```
 
 <!--END_SECTION:waka-->
