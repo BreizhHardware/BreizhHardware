@@ -28,4 +28,13 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <b>My Wakatime Stats</b>
 
 <!--START_SECTION:waka-->
+
+```txt
+PHP          17 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 %
+Python       14 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 %
+HTML         13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+```
+
 <!--END_SECTION:waka-->
