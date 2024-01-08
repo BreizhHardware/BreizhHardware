@@ -27,18 +27,4 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 
 <b>My Wakatime Stats</b>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 01 November 2023 - To: 06 January 2024
-
-Total Time: 49 hrs 44 mins
-
-PHP              16 hrs 36 mins  >>>>>>>>-----------------   32.13 %
-JavaScript       9 hrs 30 mins   >>>>>--------------------   18.39 %
-C++              6 hrs 13 mins   >>>----------------------   12.03 %
-Python           4 hrs 12 mins   >>-----------------------   08.14 %
-SQL              3 hrs 40 mins   >>-----------------------   07.12 %
-```
-
-<!--END_SECTION:waka-->
+![](https://github-readme-stats.vercel.app/api/wakatime?username=BreizhHardware)
