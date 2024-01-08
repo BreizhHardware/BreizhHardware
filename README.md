@@ -30,7 +30,7 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 05 January 2024
+From: 01 November 2023 - To: 06 January 2024
 
 Total Time: 49 hrs 44 mins
 
