@@ -27,4 +27,4 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 
 <b>My Wakatime Stats</b>
 
-![](https://raw.githubusercontent.com/BreizhHardware/BreizhHardware/main/images/)
+![](https://raw.githubusercontent.com/BreizhHardware/BreizhHardware/main/images/wakatime_weekly_language_stats.svg)
