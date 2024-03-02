@@ -27,4 +27,4 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 
 <b>My Wakatime Stats</b>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=BreizhHardware)
+![](https://raw.githubusercontent.com/BreizhHardware/BreizhHardware/main/images/)
