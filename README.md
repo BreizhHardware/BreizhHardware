@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am currently studying engineering at ISEN Nantes
 --------------------------------------------------
 
-I am passionate about IT, I am setting up my own small infrastructure, currently composed of 3 machines, a NAS, a proxmox (DELL T320, Xeon E5-2470V2, 72GB of ram, 8TB of storage in RAID 5) and a 2nd proxmox (DELL R420, 2 x Xeon E5-2440, 104GB of ram, 3TB of RAID 5 storage).
+I am passionate about IT, I am setting up my own small infrastructure, currently composed of 3 machines, a NAS, a proxmox (DELL T320, Xeon E5-2470V2, 72GB of ram, 8TB of storage in RAID 5) and a 2nd proxmox (DELL T330, E3-1260L, 32GB of ram).
 
 * 🌍  I'm based in Nantes
 * 🖥️  See my portfolio at [mrqt.fr](http://mrqt.fr)
