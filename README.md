@@ -6,7 +6,7 @@ I am currently studying engineering at ISEN Nantes
 I am passionate about IT, I am setting up my own small infrastructure, currently composed of 3 machines, a NAS, a proxmox (DELL T320, Xeon E5-2470V2, 72GB of ram, 8TB of storage in RAID 5) and a 2nd proxmox (DELL T330, E3-1260L, 32GB of ram).
 
 * 🌍  I'm based in Nantes
-* 🖥️  See my portfolio at [mrqt.fr](http://mrqt.fr?utm=github)
+* 🖥️  See my portfolio at [mrqt.fr](http://mrqt.fr?ref=github)
 * ✉️  You can contact me at [felix.mrqt@gmail.com](mailto:felix.mrqt@gmail.com)
 
 ### Skills
