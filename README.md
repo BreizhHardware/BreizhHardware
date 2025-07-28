@@ -9,7 +9,7 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 * 🌍  I'm based in Nantes
 * 🖥️  See my portfolio at [mrqt.fr](http://mrqt.fr?ref=github)
 * ✉️  You can contact me at [felix.mrqt@gmail.com](mailto:felix.mrqt@gmail.com)
-* 🚀  I'm currently working on [ISEN Orbit](http://github.com/appen-isen/isen-orbit)
+* 🚀  I'm currently working on [studysen](http://github.com/appen-isen/studysen)
 
 ### Skills
 
