@@ -28,7 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-Loading latest repositories...
+01  BreizhHardware/BreizhHardwar | pushed code to Config files for my GitHub profile.
+02  BreizhHardware/justif        | worked on TypeScript
+03  python/cpython               | worked on issues in The Python programming language
+04  K0lin/jellyfin-plugin-sso    | worked on This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
+05  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
 ```
 <!-- recent-projects:end -->
 
