@@ -1,0 +1,117 @@
+name: Recent Projects
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update recent projects section
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build recent projects block
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            const readmePath = 'README.md';
+            const markerStart = '<!-- recent-projects:start -->';
+            const markerEnd = '<!-- recent-projects:end -->';
+
+            const events = await github.paginate(github.rest.activity.listPublicEventsForUser, {
+              username: 'BreizhHardware',
+              per_page: 100,
+            });
+
+            const recentProjects = [];
+            const seenRepos = new Set();
+
+            for (const event of events) {
+              if (!event.repo || !event.repo.name || seenRepos.has(event.repo.name)) {
+                continue;
+              }
+
+              const activityByType = {
+                PushEvent: 'pushed code to',
+                PullRequestEvent: 'opened a PR in',
+                PullRequestReviewEvent: 'reviewed work in',
+                PullRequestReviewCommentEvent: 'commented on',
+                IssuesEvent: 'worked on issues in',
+                IssueCommentEvent: 'commented in',
+                CreateEvent: 'created',
+                ForkEvent: 'forked',
+              };
+
+              const activity = activityByType[event.type] || 'worked on';
+              const [owner, repo] = event.repo.name.split('/');
+              if (!owner || !repo) {
+                continue;
+              }
+
+              seenRepos.add(event.repo.name);
+
+              let details = 'Public repository';
+              try {
+                const repoInfo = await github.rest.repos.get({ owner, repo });
+                details = (repoInfo.data.description || repoInfo.data.language || 'Public repository').replace(/\s+/g, ' ').trim();
+              } catch (error) {
+                details = 'Public repository';
+              }
+
+              recentProjects.push({
+                name: event.repo.name,
+                activity,
+                details,
+              });
+
+              if (recentProjects.length === 5) {
+                break;
+              }
+            }
+
+            const lines = recentProjects.length
+              ? recentProjects.map((project, index) => {
+                  const name = project.name.padEnd(28).slice(0, 28);
+                  const details = project.details || 'Public repository';
+                  return `${String(index + 1).padStart(2, '0')}  ${name} | ${project.activity} ${details}`;
+                })
+              : ['No recent public activity found yet.'];
+
+            const block = [
+              markerStart,
+              '```text',
+              '$ recent-projects',
+              ...lines,
+              '```',
+              markerEnd,
+            ].join('\n');
+
+            const readme = fs.readFileSync(readmePath, 'utf8');
+            const pattern = new RegExp(`${markerStart}[\\s\\S]*?${markerEnd}`);
+            if (!pattern.test(readme)) {
+              throw new Error('Could not find recent projects markers in README.md');
+            }
+
+            const updatedReadme = readme.replace(pattern, block);
+            fs.writeFileSync(readmePath, updatedReadme);
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh recent work"
+          git push

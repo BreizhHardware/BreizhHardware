@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am currently studying engineering at ISEN Nantes
 --------------------------------------------------
 
-I am passionate about IT, I am setting up my own small infrastructure, currently composed of 4 machines, a proxmox (DELL T320, Xeon E5-2470V2, 72GB of ram, 8TB of storage in RAID 5), a 2nd proxmox (DELL T330, E3-1260L, 32GB of ram), a 3rd proxmox (Dell Precision T3610, 64 Gb of ram) and a small storage server for HA storage (HP 260 G3 DM, i3-7130U, 8 Gb of ram, Alpine Linux).
+I am passionate about IT, I am setting up my own small infrastructure, currently composed of 4 machines, a proxmox (DELL T320, Xeon E5-2470V2, 72GB of ram, 8TB of storage in RAID 5), a 2nd proxmox (Geektech mini PC, Ryzen 7 5800u, 64GB of ram), a 3rd proxmox (Acemagician Mini PC, Ryzen 7 5700u, 32 Gb of ram) and a small storage server for HA storage (AOOSTAR WTF PRO, Intel N-100, 16 Gb of ram, Truenas Scale).
 
 * 🌍  I'm based in Nantes
 * 🖥️  See my portfolio at [mrqt.fr](http://mrqt.fr?ref=github)
 * ✉️  You can contact me at [felix.mrqt@gmail.com](mailto:felix.mrqt@gmail.com)
-* 🚀  I'm currently working on [studysen](http://github.com/appen-isen/studysen)
+* 🚀  I'm currently working on [studysen](http://github.com/appen-isen/studysen) and on [justif](https://github.com/breizhhardware/justif)
 
 ### Skills
 
@@ -23,12 +23,13 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 
 <p align="left"> <a href="https://www.github.com/BreizhHardware" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/félix-marquet-5071bb167" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/BreizhHardware" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Recent work
 
-<b>My GitHub Stats</b>
+<!-- recent-projects:start -->
+```text
+$ recent-projects
+Loading latest repositories...
+```
+<!-- recent-projects:end -->
 
-<a href="http://www.github.com/BreizhHardware"><img src="https://github-readme-stats.vercel.app/api?username=BreizhHardware&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BreizhHardware's GitHub stats" /></a>
-
-<b>My Wakatime Stats</b>
-
-![](https://raw.githubusercontent.com/BreizhHardware/BreizhHardware/main/images/wakatime_weekly_language_stats.svg)
+This section is refreshed automatically from public GitHub activity, so it keeps up with whatever I am building next.
