@@ -28,7 +28,7 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/justif        | opened a PR in Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+01  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
 02  BreizhHardware/ntfy_alerts   | opened a PR in This project allow you to have notification about new github or docker hub release on ntfy, gotify and discord.
 03  Jojont54/Profilarr-database- | worked on Base Profilarr FR inspiree de Dictionarry, avec regex atomiques pour teams francophones, Custom Formats tiers FR et profils qualité adaptés a Radarr/Sonarr.
 04  BreizhHardware/BreizhHardwar | pushed code to Config files for my GitHub profile.
