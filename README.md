@@ -28,8 +28,8 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  connorgallopo/Tracearr       | worked on Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
-02  BreizhHardware/Site-comptage | opened a PR in Site web pour comptabiliser les heures au sein d'une organisation (type BDE)
+01  BreizhHardware/Site-comptage | pushed code to Site web pour comptabiliser les heures au sein d'une organisation (type BDE)
+02  connorgallopo/Tracearr       | worked on Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 03  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
 ```
 <!-- recent-projects:end -->
