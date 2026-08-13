@@ -28,9 +28,10 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/Site-comptage | pushed code to Site web pour comptabiliser les heures au sein d'une organisation (type BDE)
-02  connorgallopo/Tracearr       | worked on Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
-03  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+01  ShareX/XerahS                | worked on issues in XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows, macOS, and Linux with consistent accessible design.
+02  BreizhHardware/justif        | created Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+03  BreizhHardware/Site-comptage | pushed code to Site web pour comptabiliser les heures au sein d'une organisation (type BDE)
+04  connorgallopo/Tracearr       | worked on Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 ```
 <!-- recent-projects:end -->
 
