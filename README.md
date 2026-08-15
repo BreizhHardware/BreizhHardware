@@ -28,10 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/justif        | created Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
-02  ShareX/XerahS                | worked on issues in XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows, macOS, and Linux with consistent accessible design.
-03  BreizhHardware/Site-comptage | pushed code to Site web pour comptabiliser les heures au sein d'une organisation (type BDE)
-04  connorgallopo/Tracearr       | worked on Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
+01  Gizmo091/jellyfin-plugin-let | worked on A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterboxd diary.
+02  ZL154/AchievementBadges_for_ | worked on A Jellyfin plugin that adds achievement-style badges to user profiles based on viewing activity. Users unlock badges for milestones such as first watch, binge sessions and late-night viewing. Designed to gamify the Jellyfin experience and encourage engagement across libraries.
+03  BreizhHardware/justif        | created Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+04  ShareX/XerahS                | worked on issues in XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows, macOS, and Linux with consistent accessible design.
+05  BreizhHardware/Site-comptage | pushed code to Site web pour comptabiliser les heures au sein d'une organisation (type BDE)
 ```
 <!-- recent-projects:end -->
 
