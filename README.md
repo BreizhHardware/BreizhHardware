@@ -29,10 +29,10 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 ```text
 $ recent-projects
 01  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
-02  appen-isen/studysen          | opened a PR in TypeScript
-03  Gizmo091/jellyfin-plugin-let | worked on A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterboxd diary.
-04  ZL154/AchievementBadges_for_ | worked on A Jellyfin plugin that adds achievement-style badges to user profiles based on viewing activity. Users unlock badges for milestones such as first watch, binge sessions and late-night viewing. Designed to gamify the Jellyfin experience and encourage engagement across libraries.
-05  ShareX/XerahS                | worked on issues in XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows, macOS, and Linux with consistent accessible design.
+02  TheDuffman85/crowdsec-web-ui | worked on A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.
+03  appen-isen/studysen          | opened a PR in TypeScript
+04  Gizmo091/jellyfin-plugin-let | worked on A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterboxd diary.
+05  ZL154/AchievementBadges_for_ | worked on A Jellyfin plugin that adds achievement-style badges to user profiles based on viewing activity. Users unlock badges for milestones such as first watch, binge sessions and late-night viewing. Designed to gamify the Jellyfin experience and encourage engagement across libraries.
 ```
 <!-- recent-projects:end -->
 
