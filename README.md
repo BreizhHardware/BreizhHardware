@@ -28,7 +28,7 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+01  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
 02  TheDuffman85/crowdsec-web-ui | worked on A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.
 03  appen-isen/studysen          | opened a PR in TypeScript
 04  Gizmo091/jellyfin-plugin-let | worked on A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterboxd diary.
