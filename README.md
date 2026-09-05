@@ -28,11 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
-02  TheDuffman85/crowdsec-web-ui | worked on A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.
-03  appen-isen/studysen          | opened a PR in TypeScript
-04  Gizmo091/jellyfin-plugin-let | worked on A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterboxd diary.
-05  ZL154/AchievementBadges_for_ | worked on A Jellyfin plugin that adds achievement-style badges to user profiles based on viewing activity. Users unlock badges for milestones such as first watch, binge sessions and late-night viewing. Designed to gamify the Jellyfin experience and encourage engagement across libraries.
+01  AprilNEA/OpenLogi            | worked on ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+02  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+03  TheDuffman85/crowdsec-web-ui | worked on A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.
+04  appen-isen/studysen          | opened a PR in TypeScript
+05  Gizmo091/jellyfin-plugin-let | worked on A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterboxd diary.
 ```
 <!-- recent-projects:end -->
 
