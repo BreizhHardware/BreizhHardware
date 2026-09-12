@@ -29,7 +29,7 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 ```text
 $ recent-projects
 01  appen-isen/studysen          | worked on TypeScript
-02  Jarvis322/macos-sysdata      | worked on See what is really inside macOS System Data and delete it, item by item, from the menu bar.
+02  Jarvis322/macos-sysdata      | worked on See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 03  AprilNEA/OpenLogi            | worked on ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 04  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
 05  TheDuffman85/crowdsec-web-ui | worked on A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.
