@@ -28,8 +28,8 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/docysen       | pushed code to TypeScript
-02  appen-isen/studysen          | worked on issues in TypeScript
+01  appen-isen/studysen          | commented in TypeScript
+02  BreizhHardware/docysen       | pushed code to TypeScript
 03  Jarvis322/macos-sysdata      | worked on See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 04  AprilNEA/OpenLogi            | worked on ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 05  BreizhHardware/justif        | worked on Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
