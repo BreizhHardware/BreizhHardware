@@ -28,11 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
-02  BreizhHardware/docysen       | pushed code to TypeScript
-03  appen-isen/studysen          | commented in TypeScript
-04  Jarvis322/macos-sysdata      | worked on See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
-05  AprilNEA/OpenLogi            | worked on ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+01  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
+02  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+03  BreizhHardware/docysen       | pushed code to TypeScript
+04  appen-isen/studysen          | commented in TypeScript
+05  Jarvis322/macos-sysdata      | worked on See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
 ```
 <!-- recent-projects:end -->
 
