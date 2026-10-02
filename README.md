@@ -29,10 +29,10 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 ```text
 $ recent-projects
 01  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
-02  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
-03  BreizhHardware/docysen       | pushed code to TypeScript
-04  appen-isen/studysen          | commented in TypeScript
-05  Jarvis322/macos-sysdata      | worked on See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
+02  BreizhHardware/TP-STM32-ISEN | pushed code to C
+03  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+04  BreizhHardware/docysen       | pushed code to TypeScript
+05  appen-isen/studysen          | commented in TypeScript
 ```
 <!-- recent-projects:end -->
 
