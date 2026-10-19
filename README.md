@@ -28,11 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
-02  BreizhHardware/TP-STM32-ISEN | pushed code to C
-03  megabitsenmzq/OSWarp         | worked on Reboot into another OS with one click. Especially useful for Win/Linux dual-boot.
-04  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
-05  BreizhHardware/docysen       | pushed code to TypeScript
+01  appen-isen/studysen          | created TypeScript
+02  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
+03  BreizhHardware/TP-STM32-ISEN | pushed code to C
+04  megabitsenmzq/OSWarp         | worked on Reboot into another OS with one click. Especially useful for Win/Linux dual-boot.
+05  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
 ```
 <!-- recent-projects:end -->
 
