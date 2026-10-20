@@ -28,7 +28,7 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  appen-isen/studysen          | created TypeScript
+01  appen-isen/studysen          | opened a PR in TypeScript
 02  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
 03  BreizhHardware/TP-STM32-ISEN | pushed code to C
 04  megabitsenmzq/OSWarp         | worked on Reboot into another OS with one click. Especially useful for Win/Linux dual-boot.
