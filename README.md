@@ -32,7 +32,6 @@ $ recent-projects
 02  appen-isen/studysen          | opened a PR in TypeScript
 03  BreizhHardware/TP-STM32-ISEN | pushed code to C
 04  megabitsenmzq/OSWarp         | worked on Reboot into another OS with one click. Especially useful for Win/Linux dual-boot.
-05  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
 ```
 <!-- recent-projects:end -->
 
