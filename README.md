@@ -28,10 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
-02  appen-isen/studysen          | opened a PR in TypeScript
-03  BreizhHardware/TP-STM32-ISEN | pushed code to C
-04  megabitsenmzq/OSWarp         | worked on Reboot into another OS with one click. Especially useful for Win/Linux dual-boot.
+01  MethodGrab/firefox-custom-ne | forked A Firefox extension that allows you to specify a custom new-tab URL
+02  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
+03  appen-isen/studysen          | opened a PR in TypeScript
+04  BreizhHardware/TP-STM32-ISEN | pushed code to C
+05  megabitsenmzq/OSWarp         | worked on Reboot into another OS with one click. Especially useful for Win/Linux dual-boot.
 ```
 <!-- recent-projects:end -->
 
