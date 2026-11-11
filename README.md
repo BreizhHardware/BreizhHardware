@@ -28,11 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
-02  BreizhHardware/firefox-custo | pushed code to A Firefox extension that allows you to specify a custom new-tab URL
-03  MethodGrab/firefox-custom-ne | forked A Firefox extension that allows you to specify a custom new-tab URL
-04  appen-isen/studysen          | opened a PR in TypeScript
-05  BreizhHardware/TP-STM32-ISEN | pushed code to C
+01  appen-isen/jeu-sans-image    | opened a PR in C#
+02  appen-isen/site-green-projec | opened a PR in Site pour le club de l'ISEN Green Project
+03  appen-isen/site-appen        | opened a PR in Le site vitrine d'Appen pour présenter le club.
+04  appen-isen/site-interpromos  | opened a PR in Site internet des Interpromos de l'ISEN Nantes
+05  appen-isen/site-interpromos- | opened a PR in Website bds
 ```
 <!-- recent-projects:end -->
 
