@@ -28,11 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  appen-isen/jeu-sans-image    | opened a PR in C#
-02  appen-isen/site-green-projec | opened a PR in Site pour le club de l'ISEN Green Project
-03  appen-isen/site-appen        | opened a PR in Le site vitrine d'Appen pour présenter le club.
-04  appen-isen/site-interpromos  | opened a PR in Site internet des Interpromos de l'ISEN Nantes
-05  appen-isen/site-interpromos- | opened a PR in Website bds
+01  modelec/.github              | worked on Modelec public presentation page
+02  BreizhHardware/TP-STM32-ISEN | pushed code to C
+03  BreizhHardware/TP-JAVA-S7    | worked on Java
+04  modelec/Modelec-ROS2         | pushed code to C++
+05  BreizhHardware/py_CIPA3      | worked on Python
 ```
 <!-- recent-projects:end -->
 
