@@ -28,11 +28,11 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  modelec/.github              | worked on Modelec public presentation page
-02  BreizhHardware/TP-STM32-ISEN | pushed code to C
-03  BreizhHardware/TP-JAVA-S7    | worked on Java
-04  modelec/Modelec-ROS2         | pushed code to C++
-05  BreizhHardware/py_CIPA3      | worked on Python
+01  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+02  BreizhHardware/portfolio     | pushed code to TypeScript
+03  modelec/pcbs_modelec         | worked on Tous les PCBs de Modelec avec les librairies KiCad des composants en stock au club.
+04  modelec/modelec.club         | pushed code to TypeScript
+05  modelec/odo_STM32            | worked on Code du PCB Odométrie
 ```
 <!-- recent-projects:end -->
 
