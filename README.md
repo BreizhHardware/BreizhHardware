@@ -28,7 +28,7 @@ I am passionate about IT, I am setting up my own small infrastructure, currently
 <!-- recent-projects:start -->
 ```text
 $ recent-projects
-01  BreizhHardware/justif        | pushed code to Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
+01  BreizhHardware/justif        | opened a PR in Open source, self-hostable expense report management, built for international use (multilingual, multi-currency).
 02  BreizhHardware/cours-ISEN-MD | pushed code to This repo contains all my course at ISEN all created using obisidian
 03  BreizhHardware/portfolio     | pushed code to TypeScript
 04  modelec/pcbs_modelec         | worked on Tous les PCBs de Modelec avec les librairies KiCad des composants en stock au club.
